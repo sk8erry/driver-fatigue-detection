@@ -1,4 +1,3 @@
-#Brian Kobylt and Ricky Yang
 #Senior Project Driver Fatigue System (main program)
 
 import time
