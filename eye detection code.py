@@ -33,7 +33,7 @@ while loopcount < looplimit:
   cv2.rectangle(img,(roi_face_x, roi_face_y),(roi_face_x + roi_face_w, roi_face_y + roi_face_h),(0,255,0),2) 
   #^draw a box around the area of interest#
   
-  #print 'draw a box around the roi'
+  #print 'draw a box around the roi' 
   for (x,y,w,h) in faces:
      #print '2nd elements in faces'
      #print x,y,w,h
