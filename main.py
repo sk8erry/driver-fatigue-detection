@@ -227,8 +227,8 @@ while True:
   GPIO.output(16,0)
   time.sleep(0.1)
 
-    # Wait before repeating loop  while True:
+# Wait before repeating loop  while True:
   
     
 #----------end of FSR part--------------------------------------------------
-  
+#----------end--------------------------------------------------------------
